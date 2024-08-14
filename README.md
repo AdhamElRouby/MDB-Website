@@ -2,6 +2,10 @@
 
 A responsive business website that incorporates contemporary features and modern design elements.
 
+<div align="center">
+ <img src="./images/demo.gif" alt="app demo">
+</div>
+
 ## Tech Stack
 
 - <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="html5">
